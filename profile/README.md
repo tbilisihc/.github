@@ -27,5 +27,3 @@ This organization has project from our community, that they gladly decided to sh
 <sub>🤫 Psst! You can join our GitHub organization by texting [andrinoff](https://linktr.ee/andrinoff)</sub>
 
 ---
-
-### We are a part of [Hack Club](https://hackclub.com/)
