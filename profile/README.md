@@ -1,6 +1,6 @@
 ## :wave: Hey, welcome to Tbilisi Hack Club 
 
-![AI GENERATED!](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQnkWgqMZOwXTZLFs6zMwqbOccLSDM8hKDjy2QNAk5uxP-i8KNE3eRsRPz3YYqR-Xc2Y6y7atBnR6cbS4eW7kN6EIPmXCH8pFqt6zoQe3B3hKl5lX4mc6eJ_MBgHDCzaGQd5QE0XNtusK8d8U8tq76UcXex6nWcPooZ7oelPkUspTY3nA=s1024)
+![Code](https://cdn.prod.website-files.com/5bb2d180c43612d267c85ce4/67f49a74cfcc6549290499cc_20%20Best%20Programming%20Languages%20for%20Kids.jpg)
 
 Welcome to a Georgian community of high school programming enthusiasts. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. 
 
