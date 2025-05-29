@@ -12,9 +12,9 @@ We believe **we're out our best when we're making**
 
 ## 🌈 Get Involved
 
-1. Join our telegram channel!
+1. Join our [telegram channel](https://t.me/tbilisihc)!
 2. Text us about potential collaborations!
-3. Sponsor us!
+3. [Sponsor](https://patreon.com/tbilisihc) us!
 
 ## 🦦 Contributing to our Hack Club
 
