@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/8JWS55z_d.webp?maxwidth=760&fidelity=grand)
+
 ## :wave: Hey, welcome to Tbilisi Hack Club 
 
 ![Code](https://cdn.prod.website-files.com/5bb2d180c43612d267c85ce4/67f49a74cfcc6549290499cc_20%20Best%20Programming%20Languages%20for%20Kids.jpg)
