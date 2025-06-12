@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/8JWS55z_d.webp?maxwidth=760&fidelity=grand)
+![Banner](https://tbilisi.hackclub.com/assets/banners/new-banner.png)
 
 ## :wave: Hey, welcome to Tbilisi Hack Club 
 
@@ -10,7 +10,7 @@ Welcome to a Georgian community of high school programming enthusiasts. We’re 
 
 We believe **we're out our best when we're making**
 
-![Code](https://cdn.prod.website-files.com/5bb2d180c43612d267c85ce4/67f49a74cfcc6549290499cc_20%20Best%20Programming%20Languages%20for%20Kids.jpg)
+
 
 ## 🌈 Get Involved
 
