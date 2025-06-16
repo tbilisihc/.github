@@ -26,6 +26,6 @@ This organization has project from our community, that they gladly decided to sh
 
 ---
  
-<sub>🤫 Psst! You can join our GitHub organization by clicking [here](https://auto-invite.vercel.app/login)</sub>
+<sub>🤫 Psst! You can join our GitHub organization by clicking [here](https://tbilisi.hackclub.com/github)</sub>
 
 ---
