@@ -1,22 +1,19 @@
 ![Banner](https://tbilisi.hackclub.com/assets/banners/new-banner.png)
 
-## :wave: Hey, welcome to Tbilisi Hack Club 
+### 🚀 Hack Club Tbilisi is a youth community for everyone who wants to learn programming and build amazing projects!
 
+## Join us if you want to:
+✨ Improve your coding skills
+🤝 Find like-minded people
+💡 Work on new projects
+🎉 Take part in workshops, meetups, and hackathons
 
-
-Welcome to a Georgian community of high school programming enthusiasts. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. 
-
-## 🚢 Our Philosophy
-
-We believe **we're out our best when we're making**
-
-
-
-## 🌈 Get Involved
-
-1. Join our [telegram channel](https://t.me/tbilisihc)!
-2. Text us about potential collaborations!
-3. [Sponsor](https://patreon.com/tbilisihc) us!
+## We welcome everyone — whether you’re a beginner or an experienced developer!
+### 🔗 Stay updated and connect with us here:
+👉 [Facebook](https://www.facebook.com/profile.php?id=61577311773864&mibextid=wwXIfr&mibextid=wwXIfr)
+👉 [Telegram](https://t.me/tbilisihc)
+👉 [Instagram](https://instagram.com/tbilisihc)
+👉 [Website](https://tbilisi.hackclub.com)
 
 ## 🦦 Contributing to our Hack Club
 
