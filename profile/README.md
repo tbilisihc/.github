@@ -3,17 +3,17 @@
 ### 🚀 Hack Club Tbilisi is a youth community for everyone who wants to learn programming and build amazing projects!
 
 ## Join us if you want to:
-✨ Improve your coding skills
-🤝 Find like-minded people
-💡 Work on new projects
-🎉 Take part in workshops, meetups, and hackathons
+* ✨ Improve your coding skills
+* 🤝 Find like-minded people
+* 💡 Work on new projects
+* 🎉 Take part in workshops, meetups, and hackathons
 
 ## We welcome everyone — whether you’re a beginner or an experienced developer!
 ### 🔗 Stay updated and connect with us here:
-👉 [Facebook](https://www.facebook.com/tbilisihc)
-👉 [Telegram](https://t.me/tbilisihc)
-👉 [Instagram](https://instagram.com/tbilisihc)
-👉 [Website](https://tbilisi.hackclub.com)
+- 👉 [Facebook](https://www.facebook.com/tbilisihc)
+- 👉 [Telegram](https://t.me/tbilisihc)
+- 👉 [Instagram](https://instagram.com/tbilisihc)
+- 👉 [Website](https://tbilisi.hackclub.com)
 
 ## 🦦 Contributing to our Hack Club
 
