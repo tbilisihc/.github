@@ -1,4 +1,4 @@
-![Banner](https://tbilisi.hackclub.com/assets/banners/new-banner.png)
+![Banner](https://pbs.twimg.com/profile_banners/1928801461321740289/1750110152/1500x500)
 
 ### 🚀 Hack Club Tbilisi is a youth community for everyone who wants to learn programming and build amazing projects!
 
