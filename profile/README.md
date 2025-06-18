@@ -10,7 +10,7 @@
 
 ## We welcome everyone — whether you’re a beginner or an experienced developer!
 ### 🔗 Stay updated and connect with us here:
-👉 [Facebook](https://www.facebook.com/profile.php?id=61577311773864&mibextid=wwXIfr&mibextid=wwXIfr)
+👉 [Facebook](https://www.facebook.com/tbilisihc)
 👉 [Telegram](https://t.me/tbilisihc)
 👉 [Instagram](https://instagram.com/tbilisihc)
 👉 [Website](https://tbilisi.hackclub.com)
